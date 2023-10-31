@@ -1,7 +1,9 @@
 # Writing_user_interaction_python_pipelines
 
-# Prerequisites
+## Prerequisites
+...
 esearch
+...
 
 1. the user of your code will specify the protein family, and the taxonomic group, and then your code will need
 to obtain the relevant protein sequence data, and perform all subsequent analyses and outputs in the user's
